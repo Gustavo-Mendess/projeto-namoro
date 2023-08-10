@@ -13,7 +13,7 @@ body{
     color: rgb(255, 255, 255)
 }
 main {
-    height: 700px;
+    height: 600px;
     text-align: justify;
     padding: 10px 150px 10px 150px;
     margin: 20px;
@@ -27,31 +27,7 @@ main h1{
 main p{
     text-align: center;
 }
-table{
-    width: 100%;
-    margin-bottom: 10px;
-
-}
-caption{
-    margin-top: 15px;
-    margin-bottom: 10px;
-    caption-side: top;
-    font-size: 20px;
-}
-th,td{
-    border: 1px solid white;
-    text-align: center;
-    padding: 10px;
-}
-table a{
-    color: rgb(0, 0, 0);
-    text-decoration: none;
-    font-size: 19px;
-    
-}
-table a:hover{
-    color: white;
-    transition: 1.2s;
-    transform: scale(1.2);
-    display: block;
+img{
+    margin-left: 33%;
+    margin-top: 3%;
 }
